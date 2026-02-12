@@ -1,0 +1,5 @@
+{
+  "name": "ProScript Email Refiner",
+  "description": "A streamlined tool for refining professional emails, removing corporate fluff, and ensuring clear communication using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
